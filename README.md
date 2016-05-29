@@ -1,2 +1,3 @@
 # Hello-World
-For learning how to use GitHub
+
+Hey Everyone! Glad to start a new journey!
